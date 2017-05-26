@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+	* Variables are a place to store information and are given a name and a value. Variables can be one of several data types, including string, number, and boolean.
+	* Strings are a type of variable that consist of any series of characters encapsulated by single or double quotes. 
+	* Functions are blocks of code that are accessible from elsewhere in the same scope of code. When called by their given name, they accept a set of defined arguments, or variables. These functions then do work with their arguments and then `return` some data. This data is then transported to where their function was first called.
+	* An `if (conditional)` statement is a defined block of code that only executes when its conditional is `true`.
+	* A boolean is a type of variable that is either `true` or `false`, and is at the center of conditionals.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
